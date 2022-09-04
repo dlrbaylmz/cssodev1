@@ -1,0 +1,31 @@
+body {
+
+    background-color: beige;
+
+    margin-left: 36%;
+
+    margin-right: 36%;
+
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.kutu {
+    
+    width:350px;
+
+    height:70px;
+
+    border-top-style:solid;
+
+    border-bottom-style:solid;
+
+    border-left-style:double;
+
+    border-right-style:double;
+
+ }
+
+ h1{
+    text-transform: uppercase;
+ }
